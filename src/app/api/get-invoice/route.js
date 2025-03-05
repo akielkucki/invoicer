@@ -20,7 +20,7 @@ export async function GET(request) {
             clientEmail: 'rcpkim@hotmail.com',
             ferretName: 'Pebbles',
             playSessionLength: 60,
-            playSessionRate: 25,
+            playSessionRate: 2500,
             additionalServices: ['grooming', 'treats'],
             notes: 'Pebbles loves to play with tubes and tunnels. Please include those in the playtime.',
             totalAmount: 2500 * 2 + 15 + 8, // 2 half hours + grooming + treats
